@@ -1,8 +1,10 @@
 @font-face {
-  font-family: AYD_main;
-  src: url(Espera-Bold.ttf);
+  font-family: 'Espera';
+  src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/newfolder/Espera-Bold.ttf');
+  font-weight: 100;
+  style: normal;
 }
 
 div {
-  font-family: AYD_main;
+  font-family: 'Espera';
 }
