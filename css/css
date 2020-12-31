@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'LEMONMILK';
-  src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/fonts/LEMONMILK-Bold.otf');
+  src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/fonts/LEMONMILK-Bold.otf') format('otf');
   font-weight: 100;
   style: bold;
 }
