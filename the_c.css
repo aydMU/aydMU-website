@@ -1,0 +1,8 @@
+@font-face {
+  font-family: AYD_main;
+  src: url(Espera-Bold.ttf);
+}
+
+div {
+  font-family: AYD_main;
+}
