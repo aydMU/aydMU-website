@@ -1,10 +1,12 @@
 @font-face {
-  font-family: 'Espera';
+  font-family: 'espera';
   src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/newfolder/Espera-Bold.ttf');
   font-weight: 100;
-  style: normal;
+  style: bold;
 }
 
 div {
-  font-family: 'Espera';
+  font-family: 'espera', sans-serif; 
+  font-weight: 100;
+  font-style: bold;
 }
