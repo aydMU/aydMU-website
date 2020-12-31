@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'espera';
-  src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/newfolder/Espera-Bold.ttf');
+  font-family: 'LEMONMILK';
+  src: url('https://raw.githubusercontent.com/aydMU/aydMU-website/blob/master/fonts/LEMONMILK-Bold.otf');
   font-weight: 100;
   style: bold;
 }
 
 div {
-  font-family: 'espera', sans-serif; 
+  font-family: 'LEMONMILK', sans-serif; 
   font-weight: 100;
   font-style: bold;
 }
