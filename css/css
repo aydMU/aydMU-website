@@ -1,10 +1,32 @@
 @font-face {
   font-family: LEMONMILK;
   src: url('fonts/LEMONMILK-Regular.otf') format('otf');
-  font-weight: 100;
+  font-weight: normal;
   style: regular;
   color: white;
 }
+
+
+
+
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+
+
+
 
 div{
 font-family: LEMONMILK;
